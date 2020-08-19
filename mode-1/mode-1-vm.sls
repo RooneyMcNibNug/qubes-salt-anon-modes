@@ -1,4 +1,4 @@
-# Mode 1: Anonymous User; Any Recipient
+Mode 1: Anonymous User; Any Recipient
 
 create-mode-1-vm
   qvm.vm:
