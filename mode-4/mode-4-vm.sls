@@ -9,3 +9,4 @@ create-mode-4-vm:
           - mem: 3000
         - prefs:
           - template: fedora-31
+          - netvm: sys-firewall
