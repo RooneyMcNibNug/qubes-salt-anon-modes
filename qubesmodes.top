@@ -1,0 +1,6 @@
+base:
+    dom0:
+        - mode-1
+        - mode-2
+        - mode-3
+        - mode-4
