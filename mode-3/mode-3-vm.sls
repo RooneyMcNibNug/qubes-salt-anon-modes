@@ -4,9 +4,9 @@ create-mode-3-vm:
     qvm.vm:
         - name: mode-3
         - preset:
-          - template: fedora-31
-          - label: yellow
-          - mem: 3000
+            - template: fedora-31
+            - label: yellow
+            - mem: 3000
         - prefs:
-          - template: fedora-31
-          - netvm: sys-whonix
+            - template: fedora-31
+            - netvm: sys-whonix
