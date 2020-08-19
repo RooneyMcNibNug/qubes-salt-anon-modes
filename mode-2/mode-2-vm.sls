@@ -9,4 +9,4 @@ create-mode-4-vm:
           - mem: 3000
         - prefs:
           - template: whonix-ws
-          - netvm: sys-whonix
+          - netvm: sys-whonix 
